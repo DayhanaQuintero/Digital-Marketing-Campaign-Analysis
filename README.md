@@ -66,29 +66,23 @@ Digital-Marketing-Campaign-Analysis
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
-### Figure 1. Average Return on Ad Spend (ROAS) by Advertising Platform
+### Figure 1. Average ROAS by Advertising Platform
 
-![Figure 1](images/figure1_average_roas_by_advertising_platform.png)
+![Figure 1](images/Figure%201.%20Average%20ROAS%20by%20Advertising%20Platform.png)
 
----
+### Figure 2. Advertising Spend vs. Revenue by Month
 
-### Figure 2. Monthly Advertising Spend vs. Revenue
+![Figure 2](images/Figure%202.%20Advertising%20Spend%20vs.%20Revenue%20by%20Month.png)
 
-![Figure 2](images/figure2_advertising_spend_vs_revenue_by_month.png)
+### Figure 3. Campaign Distribution by ROAS Performance Level
 
----
-
-### Figure 3. Distribution of Campaigns by ROAS Performance
-
-![Figure 3](images/figure3_campaign_distribution_by_roas_performance.png)
-
----
+![Figure 3](images/Figure%203.%20Campaign%20Distribution%20by%20ROAS%20Performance%20Level.png)
 
 ### Figure 4. Average Conversion Rate by Age Segment
 
-![Figure 4](images/figure4_average_conversion_rate_by_age_segment.png)
+![Figure 4](images/Figure%204.%20Average%20Conversion%20Rate%20by%20Age%20Segment.png)
 
 ---
 
